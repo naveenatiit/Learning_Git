@@ -1,1 +1,5 @@
 secretkey.txt
+linux-install-source.sh
+pair_id_rsa
+pair_id_rsa.pub
+.gitignore
